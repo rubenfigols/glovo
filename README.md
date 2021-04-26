@@ -1,16 +1,12 @@
-# Code Assignment
+# mars-rover-housfy
 
-This project is configured for you to get started.
-It includes a dependency: `node-fetch`, so you can use the fetch API inside this project.
-You can read more about the fetch API in [the Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+Project developed for Glovo's recruitment process. 
 
-Remember to run `npm install` to download the library inside the project.
+## Introducción
+At Glovo, our aim is to give everyone easy access to anything in their city. As I’m
+sure you know, we’re experts in bringing delicious food to your door. Wouldn’t it
+be great to accompany this food with some exotic cocktails?! Your job is to find
+some cocktails and look up the ingredients we need to make them so that we
+can include them in our app.
 
-## Running the project
-
-You can write your code in as many separate files as you want.
-You should import your code inside the `src/index.js` file, which you can run using the project's _test_ script:
-
-```bash
-npm run test
-```
+### Development
